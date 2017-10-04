@@ -1,3 +1,4 @@
+
 # [Start Bootstrap](http://startbootstrap.com/) - [New Age](http://startbootstrap.com/template-overviews/new-age/)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fraeprojects%2Fraeprojects.github.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fraeprojects%2Fraeprojects.github.io?ref=badge_shield)
 
@@ -28,4 +29,3 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-new-age/blob/gh-pages/LICENSE) license.
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fraeprojects%2Fraeprojects.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fraeprojects%2Fraeprojects.github.io?ref=badge_large)
